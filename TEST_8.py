@@ -1,6 +1,7 @@
 from boxsdk import OAuth2, Client
 import pandas as pd
 import cx_Oracle
+import oracledb
 
 # Replace with your Box API credentials and file ID
 CLIENT_ID = 'rt9xai0co6uvf8tswejjh12gjk0ypsgv'
